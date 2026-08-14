@@ -27,6 +27,7 @@ jobs:
         run: |
           mkdir -p public
           unzip -oq fanzai147-web.github.io.zip -d public || test $? -eq 1
+          chmod -R u+rwX,go+rX public
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload Pages artifact
