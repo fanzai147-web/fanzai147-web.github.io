@@ -26,7 +26,7 @@ jobs:
       - name: Unpack static site
         run: |
           mkdir -p public
-          unzip -q fanzai147-web.github.io.zip -d public
+          unzip -oq fanzai147-web.github.io.zip -d public
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload Pages artifact
