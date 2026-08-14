@@ -1,0 +1,16 @@
+1:"$Sreact.fragment"
+2:I[9575,[],""]
+3:I[3835,[],""]
+4:I[3327,["403","static/chunks/6e290787-554184ba7c7e9981.js","907","static/chunks/907-9218ffa5e26d13e8.js","974","static/chunks/app/page-a41295d27f27d0e5.js"],"InvestorDnaApp"]
+5:I[7694,[],"OutletBoundary"]
+7:I[1715,[],"AsyncMetadataOutlet"]
+9:I[7694,[],"ViewportBoundary"]
+b:I[7694,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[5821,[],""]
+:HL["/_next/static/css/e570455367e3c244.css","style"]
+0:{"P":null,"b":"6IKyaAflHm8U3H_vxg42T","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e570455367e3c244.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{}],null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#0b0d10"}]]
+6:null
+8:{"metadata":[["$","title","0",{"children":"Investor DNA｜16型投资人格测试"}],["$","meta","1",{"name":"description","content":"24道投资情境题，发现隐藏在交易记录背后的你。"}]],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
